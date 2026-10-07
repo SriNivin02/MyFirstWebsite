@@ -1,0 +1,41 @@
+body{
+    font-family: courier;
+    max-width: 800px;
+    padding: 20px;
+    line-height: 2;
+    margin: 50px auto;
+    }
+
+label{
+    display: block;
+    font-weight: bold;
+    }
+
+form{
+    padding: 20px;
+    border-radius: 10px;
+    }
+
+img{
+    width: 200px;
+    }
+
+select{
+    width: 200px;
+    }
+
+.ex{
+    padding: 30px;
+    background-color: lightgreen;
+    border-left: 10px solid green;
+    }
+
+.logo{
+    display: flex;
+    gap: 20px;
+    }
+
+.mybutton{
+    padding: 5px;
+    font-size:13px;
+    }
